@@ -1,4 +1,3 @@
-```markdown
 # Hi, I'm TheOnlyChresser 👋
 
 Student at HTX Roskilde • Frontend & full‑stack tinkerer • Big fan of medicine & psychology
@@ -45,7 +44,6 @@ If you want to collaborate, talk about a project, or just chat about psychology 
 
 ## Want this README tailored further?
 If you want a more personal or formal tone, a short bio with your real name/pronouns, or a spotlight on specific repos (with screenshots, stats or demo links), tell me which details to include and I’ll update this README.
-```
 
 <div><a>
   <img align="right" src="https://github-readme-stats.vercel.app/api/?username=theonlychresser&theme=gradient" />
